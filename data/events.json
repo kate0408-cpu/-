@@ -1,0 +1,92 @@
+[
+  {
+    "event_id": "EV-USCN-20260819-001",
+    "country_pair": "US-CN",
+    "event_type": "新增關稅",
+    "title": "China - Import Tariffs - International Trade Administration (.gov)",
+    "affected_products": [
+      "General Merchandise / 綜合商品"
+    ],
+    "tariff_rate": null,
+    "effective_date": "2023-04-07",
+    "created_at": "2026-08-19 10:49:08",
+    "last_updated": "2026-08-19 10:49:08",
+    "sources": [
+      "U.S. Department of Commerce"
+    ],
+    "classification_confidence": 0.85,
+    "timeline": [
+      {
+        "date": "2023-04-07",
+        "recorded_at": "2026-08-19 10:49:08",
+        "source": "U.S. Department of Commerce",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtNFgzTXZCczJZcEJ2d2ZibFZCa0xZUlY0SkxnQ1JFMm85bmxSRlFDSjNYaWFxd1I0S3B5QVoybVpKVUNYZFMtOHg2bUs4TWNjYm5sOGkxVjhVZGpPNnhVMGxDMFVVRVZ2b0JVNA?oc=5",
+        "title": "China - Import Tariffs - International Trade Administration (.gov)",
+        "event_type": "新增關稅",
+        "tariff_rate": null,
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBtNFgzTXZCczJZcEJ2d2ZibFZCa0xZUlY0SkxnQ1JFMm85bmxSRlFDSjNYaWFxd1I0S3B5QVoybVpKVUNYZFMtOHg2bUs4TWNjYm5sOGkxVjhVZGpPNnhVMGxDMFVVRVZ2b0JVNA?oc=5\" target=\"_blank\">China - Import Tariffs</a>&nbsp"
+      }
+    ]
+  },
+  {
+    "event_id": "EV-USTW-20260818-001",
+    "country_pair": "US-TW",
+    "event_type": "關稅談判／協議",
+    "title": "台美21世紀貿易倡議第二階段談判與關稅機制諮商",
+    "affected_products": [
+      "ICT Products",
+      "Agricultural Products"
+    ],
+    "tariff_rate": null,
+    "effective_date": "2026-08-18",
+    "created_at": "2026-08-18 10:00:00",
+    "last_updated": "2026-08-18 10:00:00",
+    "sources": [
+      "台灣經濟部國際貿易署"
+    ],
+    "classification_confidence": 0.95,
+    "timeline": [
+      {
+        "date": "2026-08-18",
+        "recorded_at": "2026-08-18 10:00:00",
+        "source": "台灣經濟部國際貿易署",
+        "url": "https://www.trade.gov.tw/Pages/Detail.aspx?nodeID=45&pid=789123",
+        "title": "台美21世紀貿易倡議第二階段談判與關稅機制諮商",
+        "event_type": "關稅談判／協議",
+        "tariff_rate": null,
+        "summary": "台灣與美國展開新一輪經貿合作與關稅調解機制諮商，聚焦高科技與農產品供應鏈韌性。"
+      }
+    ]
+  },
+  {
+    "event_id": "EV-USCN-20260815-001",
+    "country_pair": "US-CN",
+    "event_type": "新增關稅",
+    "title": "美國商務部及USTR對中國半導體與鋰電池加徵關稅公告",
+    "affected_products": [
+      "Semiconductors / Chips",
+      "Lithium-ion Batteries"
+    ],
+    "tariff_rate": "25%",
+    "effective_date": "2026-08-15",
+    "created_at": "2026-08-15 09:30:00",
+    "last_updated": "2026-08-15 09:30:00",
+    "sources": [
+      "U.S. Department of Commerce",
+      "Reuters"
+    ],
+    "classification_confidence": 0.98,
+    "timeline": [
+      {
+        "date": "2026-08-15",
+        "recorded_at": "2026-08-15 09:30:00",
+        "source": "U.S. Department of Commerce",
+        "url": "https://www.commerce.gov/news/press-releases/2026/08/ustr-tariffs-semiconductors",
+        "title": "美國商務部及USTR對中國半導體與鋰電池加徵關稅公告",
+        "event_type": "新增關稅",
+        "tariff_rate": "25%",
+        "summary": "依據301條款複審結果，正式對中國先進半導體與關鍵電池加徵25%關稅。"
+      }
+    ]
+  }
+]

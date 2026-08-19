@@ -1,0 +1,4 @@
+﻿事件ID (event_id),國家/區域 (country_pair),事件類型 (event_type),事件標題 (title),受影響產品 (affected_products),關稅稅率 (tariff_rate),生效/公布日期 (effective_date),首次建立時間 (created_at),最後更新時間 (last_updated),資訊來源 (sources),歷程筆數 (timeline_count),分類信心度 (classification_confidence)
+EV-USCN-20260819-001,US-CN,新增關稅,China - Import Tariffs - International Trade Administration (.gov),General Merchandise / 綜合商品,未提及,2023-04-07,2026-08-19 10:49:08,2026-08-19 10:49:08,U.S. Department of Commerce,1,0.85
+EV-USTW-20260818-001,US-TW,關稅談判／協議,台美21世紀貿易倡議第二階段談判與關稅機制諮商,"ICT Products, Agricultural Products",未提及,2026-08-18,2026-08-18 10:00:00,2026-08-18 10:00:00,台灣經濟部國際貿易署,1,0.95
+EV-USCN-20260815-001,US-CN,新增關稅,美國商務部及USTR對中國半導體與鋰電池加徵關稅公告,"Semiconductors / Chips, Lithium-ion Batteries",25%,2026-08-15,2026-08-15 09:30:00,2026-08-15 09:30:00,"U.S. Department of Commerce, Reuters",1,0.98
