@@ -1,91 +1,262 @@
 [
   {
-    "event_id": "EV-USCN-20260819-001",
-    "country_pair": "US-CN",
-    "event_type": "新增關稅",
-    "title": "China - Import Tariffs - International Trade Administration (.gov)",
-    "affected_products": [
-      "General Merchandise / 綜合商品"
-    ],
-    "tariff_rate": null,
-    "effective_date": "2023-04-07",
-    "created_at": "2026-08-19 10:49:08",
-    "last_updated": "2026-08-19 10:49:08",
-    "sources": [
-      "U.S. Department of Commerce"
-    ],
-    "classification_confidence": 0.85,
-    "timeline": [
-      {
-        "date": "2023-04-07",
-        "recorded_at": "2026-08-19 10:49:08",
-        "source": "U.S. Department of Commerce",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtNFgzTXZCczJZcEJ2d2ZibFZCa0xZUlY0SkxnQ1JFMm85bmxSRlFDSjNYaWFxd1I0S3B5QVoybVpKVUNYZFMtOHg2bUs4TWNjYm5sOGkxVjhVZGpPNnhVMGxDMFVVRVZ2b0JVNA?oc=5",
-        "title": "China - Import Tariffs - International Trade Administration (.gov)",
-        "event_type": "新增關稅",
-        "tariff_rate": null,
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBtNFgzTXZCczJZcEJ2d2ZibFZCa0xZUlY0SkxnQ1JFMm85bmxSRlFDSjNYaWFxd1I0S3B5QVoybVpKVUNYZFMtOHg2bUs4TWNjYm5sOGkxVjhVZGpPNnhVMGxDMFVVRVZ2b0JVNA?oc=5\" target=\"_blank\">China - Import Tariffs</a>&nbsp"
-      }
-    ]
-  },
-  {
     "event_id": "EV-USTW-20260818-001",
     "country_pair": "US-TW",
     "event_type": "關稅談判／協議",
-    "title": "台美21世紀貿易倡議第二階段談判與關稅機制諮商",
+    "title": "台美21世紀貿易倡議第二階段談判與高科技關稅機制諮商",
     "affected_products": [
       "ICT Products",
+      "Semiconductors / Chips",
       "Agricultural Products"
     ],
-    "tariff_rate": null,
+    "tariff_rate": "0% 互惠協商",
     "effective_date": "2026-08-18",
     "created_at": "2026-08-18 10:00:00",
-    "last_updated": "2026-08-18 10:00:00",
+    "last_updated": "2026-08-19 09:15:00",
     "sources": [
-      "台灣經濟部國際貿易署"
+      "台灣經濟部國際貿易署",
+      "CNBC",
+      "Reuters"
     ],
-    "classification_confidence": 0.95,
+    "classification_confidence": 0.96,
     "timeline": [
+      {
+        "date": "2026-08-15",
+        "recorded_at": "2026-08-15 14:20:00",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/15/us-taiwan-trade-initiative-round-two.html",
+        "title": "U.S. and Taiwan Convene Next Round of Trade Initiative Negotiations",
+        "event_type": "關稅談判／協議",
+        "tariff_rate": "協商中",
+        "summary": "台美雙方於華府展開新一輪實體談判，聚焦雙向關稅程序簡化與標準互認。"
+      },
       {
         "date": "2026-08-18",
         "recorded_at": "2026-08-18 10:00:00",
         "source": "台灣經濟部國際貿易署",
         "url": "https://www.trade.gov.tw/Pages/Detail.aspx?nodeID=45&pid=789123",
-        "title": "台美21世紀貿易倡議第二階段談判與關稅機制諮商",
+        "title": "台美21世紀貿易倡議第二階段談判達成初步共識",
         "event_type": "關稅談判／協議",
-        "tariff_rate": null,
-        "summary": "台灣與美國展開新一輪經貿合作與關稅調解機制諮商，聚焦高科技與農產品供應鏈韌性。"
+        "tariff_rate": "0% 互惠協商",
+        "summary": "台灣與美國代表團完成第二階段談判，就農業檢驗與數位貿易通關達成實質共識，加速雙邊通關零關稅目標。"
+      },
+      {
+        "date": "2026-08-19",
+        "recorded_at": "2026-08-19 09:15:00",
+        "source": "Reuters",
+        "url": "https://www.reuters.com/business/trade/taiwan-us-reach-milestone-trade-framework-2026-08-19/",
+        "title": "Taiwan and US Advance Trade Pact with Tariff Facilitation Focus",
+        "event_type": "關稅談判／協議",
+        "tariff_rate": "0% 互惠協商",
+        "summary": "Reuters 報導雙方預計於下季度簽署正式協定，將有效降低台灣高科技零組件輸美關稅壁壘。"
       }
     ]
   },
   {
     "event_id": "EV-USCN-20260815-001",
     "country_pair": "US-CN",
-    "event_type": "新增關稅",
-    "title": "美國商務部及USTR對中國半導體與鋰電池加徵關稅公告",
+    "event_type": "已正式生效的關稅政策",
+    "title": "美國商務部與USTR對中國先進半導體及鋰電池加徵關稅正式生效",
     "affected_products": [
       "Semiconductors / Chips",
-      "Lithium-ion Batteries"
+      "Lithium-ion Batteries",
+      "Solar Products"
     ],
-    "tariff_rate": "25%",
+    "tariff_rate": "25% ~ 50%",
     "effective_date": "2026-08-15",
-    "created_at": "2026-08-15 09:30:00",
-    "last_updated": "2026-08-15 09:30:00",
+    "created_at": "2026-08-10 09:30:00",
+    "last_updated": "2026-08-15 16:00:00",
     "sources": [
       "U.S. Department of Commerce",
-      "Reuters"
+      "Reuters",
+      "CNBC"
     ],
     "classification_confidence": 0.98,
     "timeline": [
       {
+        "date": "2026-08-10",
+        "recorded_at": "2026-08-10 09:30:00",
+        "source": "Reuters",
+        "url": "https://www.reuters.com/markets/us-proposes-tariff-hikes-chinese-chips-2026-08-10/",
+        "title": "US Proposes Steep Tariff Hikes on Chinese Advanced Chips",
+        "event_type": "關稅調高",
+        "tariff_rate": "25% -> 50%",
+        "summary": "美國USTR提議將中國進口半導體關稅稅率由 25% 調高至 50%。"
+      },
+      {
+        "date": "2026-08-12",
+        "recorded_at": "2026-08-12 11:45:00",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/12/biden-finalizes-section-301-tariff-increases.html",
+        "title": "U.S. Finalizes Section 301 Tariff Increases on Strategic Chinese Sectors",
+        "event_type": "關稅調高",
+        "tariff_rate": "50%",
+        "summary": "白宮正式拍板定案，針對晶片與太陽能多晶矽提高至50%關稅。"
+      },
+      {
         "date": "2026-08-15",
-        "recorded_at": "2026-08-15 09:30:00",
+        "recorded_at": "2026-08-15 16:00:00",
         "source": "U.S. Department of Commerce",
-        "url": "https://www.commerce.gov/news/press-releases/2026/08/ustr-tariffs-semiconductors",
-        "title": "美國商務部及USTR對中國半導體與鋰電池加徵關稅公告",
-        "event_type": "新增關稅",
-        "tariff_rate": "25%",
-        "summary": "依據301條款複審結果，正式對中國先進半導體與關鍵電池加徵25%關稅。"
+        "url": "https://www.commerce.gov/news/press-releases/2026/08/ustr-tariffs-semiconductors-enacted",
+        "title": "Department of Commerce Enforces 50% Section 301 Tariffs on Selected Imports",
+        "event_type": "已正式生效的關稅政策",
+        "tariff_rate": "50%",
+        "summary": "海關與商務部自 2026 年 8 月 15 日零時起全面依新稅率徵稅。"
+      }
+    ]
+  },
+  {
+    "event_id": "EV-USCN-20260812-002",
+    "country_pair": "US-CN",
+    "event_type": "反制關稅",
+    "title": "中國商務部對美國進口特定化學品與農機設備祭出反制關稅",
+    "affected_products": [
+      "Machine Tools",
+      "Agricultural Products",
+      "Chemicals"
+    ],
+    "tariff_rate": "15% ~ 20%",
+    "effective_date": "2026-08-12",
+    "created_at": "2026-08-12 14:00:00",
+    "last_updated": "2026-08-13 18:30:00",
+    "sources": [
+      "Reuters",
+      "CNBC"
+    ],
+    "classification_confidence": 0.94,
+    "timeline": [
+      {
+        "date": "2026-08-12",
+        "recorded_at": "2026-08-12 14:00:00",
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/china/china-imposes-retaliatory-tariffs-us-chemical-goods-2026-08-12/",
+        "title": "China Announces Retaliatory Tariffs on US Chemicals and Farm Machinery",
+        "event_type": "反制關稅",
+        "tariff_rate": "15%",
+        "summary": "中國國務院關稅稅則委員會宣布對原產於美國的部分化學品與大型農業機械徵收15%反制性關稅。"
+      },
+      {
+        "date": "2026-08-13",
+        "recorded_at": "2026-08-13 18:30:00",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/13/beijing-expands-retaliatory-tariff-list-on-us-machinery.html",
+        "title": "Beijing Expands Retaliatory Tariff Scope on US Industrial Goods",
+        "event_type": "反制關稅",
+        "tariff_rate": "20%",
+        "summary": "中國商務部追加部分精細化工品與高階農具至20%關稅清單。"
+      }
+    ]
+  },
+  {
+    "event_id": "EV-USTW-20260805-001",
+    "country_pair": "US-TW",
+    "event_type": "關稅豁免",
+    "title": "美國商務部裁定台灣高階工具機與晶圓載具享有反傾銷關稅豁免",
+    "affected_products": [
+      "Machine Tools",
+      "Semiconductors / Chips"
+    ],
+    "tariff_rate": "豁免 (0%)",
+    "effective_date": "2026-08-05",
+    "created_at": "2026-08-05 11:20:00",
+    "last_updated": "2026-08-06 15:10:00",
+    "sources": [
+      "台灣經濟部國際貿易署",
+      "U.S. Department of Commerce"
+    ],
+    "classification_confidence": 0.95,
+    "timeline": [
+      {
+        "date": "2026-08-05",
+        "recorded_at": "2026-08-05 11:20:00",
+        "source": "台灣經濟部國際貿易署",
+        "url": "https://www.trade.gov.tw/Pages/Detail.aspx?nodeID=45&pid=788950",
+        "title": "美方公布工具機雙反案終判：我國主要廠商獲裁定零稅率豁免",
+        "event_type": "關稅豁免",
+        "tariff_rate": "0%",
+        "summary": "經國貿署與業者積極答辯，美商務部終判台灣精密工具機並無傾銷情事，適用零稅率豁免。"
+      },
+      {
+        "date": "2026-08-06",
+        "recorded_at": "2026-08-06 15:10:00",
+        "source": "U.S. Department of Commerce",
+        "url": "https://www.commerce.gov/news/press-releases/2026/08/ita-anti-dumping-determination-taiwan-machinery",
+        "title": "ITA Issues Negative Anti-Dumping Final Determination for Certain Taiwan Precision Tools",
+        "event_type": "關稅豁免",
+        "tariff_rate": "豁免 (0%)",
+        "summary": "官方公報正式確認豁免名單。"
+      }
+    ]
+  },
+  {
+    "event_id": "EV-USCN-20260728-001",
+    "country_pair": "US-CN",
+    "event_type": "關稅調高",
+    "title": "美國對中國純電動車 (EV) 加徵 100% 關稅案完成公眾意見諮詢並排定生效",
+    "affected_products": [
+      "Electric Vehicles (EV)",
+      "Lithium-ion Batteries"
+    ],
+    "tariff_rate": "100%",
+    "effective_date": "2026-08-01",
+    "created_at": "2026-07-28 10:00:00",
+    "last_updated": "2026-08-01 09:00:00",
+    "sources": [
+      "Reuters",
+      "CNBC",
+      "U.S. Department of Commerce"
+    ],
+    "classification_confidence": 0.99,
+    "timeline": [
+      {
+        "date": "2026-07-28",
+        "recorded_at": "2026-07-28 10:00:00",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/28/us-ev-tariffs-china-100-percent-final-review.html",
+        "title": "US Finalizes 100% Tariff on Chinese Electric Cars",
+        "event_type": "關稅調高",
+        "tariff_rate": "25% -> 100%",
+        "summary": "USTR 完成 301 條款審查，對中國進口電動車稅率由原本 25% 正式激增至 100%。"
+      },
+      {
+        "date": "2026-08-01",
+        "recorded_at": "2026-08-01 09:00:00",
+        "source": "U.S. Department of Commerce",
+        "url": "https://www.commerce.gov/news/press-releases/2026/08/ev-tariff-100-percent-effective",
+        "title": "100% Tariff on Chinese Electric Vehicles Enters Full Force",
+        "event_type": "已正式生效的關稅政策",
+        "tariff_rate": "100%",
+        "summary": "自 8 月 1 日起，所有中國進口純電動車一律課徵 100% 關稅。"
+      }
+    ]
+  },
+  {
+    "event_id": "EV-USTW-20260715-001",
+    "country_pair": "US-TW",
+    "event_type": "關稅調降",
+    "title": "台美醫療器材與生物製劑雙邊通關關稅調降協議生效",
+    "affected_products": [
+      "Medical Supplies"
+    ],
+    "tariff_rate": "調降至 2.5%",
+    "effective_date": "2026-07-15",
+    "created_at": "2026-07-15 08:30:00",
+    "last_updated": "2026-07-15 08:30:00",
+    "sources": [
+      "台灣經濟部國際貿易署",
+      "Reuters"
+    ],
+    "classification_confidence": 0.92,
+    "timeline": [
+      {
+        "date": "2026-07-15",
+        "recorded_at": "2026-07-15 08:30:00",
+        "source": "台灣經濟部國際貿易署",
+        "url": "https://www.trade.gov.tw/Pages/Detail.aspx?nodeID=45&pid=788620",
+        "title": "台美醫材標準互認及關稅調降優惠措施今起生效",
+        "event_type": "關稅調降",
+        "tariff_rate": "6.5% -> 2.5%",
+        "summary": "雙邊高階醫療器材進出口關稅自 6.5% 顯著調降至 2.5%，大幅促進雙邊醫療生技貿易。"
       }
     ]
   }

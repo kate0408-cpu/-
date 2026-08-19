@@ -1,4 +1,7 @@
 ﻿事件ID (event_id),國家/區域 (country_pair),事件類型 (event_type),事件標題 (title),受影響產品 (affected_products),關稅稅率 (tariff_rate),生效/公布日期 (effective_date),首次建立時間 (created_at),最後更新時間 (last_updated),資訊來源 (sources),歷程筆數 (timeline_count),分類信心度 (classification_confidence)
-EV-USCN-20260819-001,US-CN,新增關稅,China - Import Tariffs - International Trade Administration (.gov),General Merchandise / 綜合商品,未提及,2023-04-07,2026-08-19 10:49:08,2026-08-19 10:49:08,U.S. Department of Commerce,1,0.85
-EV-USTW-20260818-001,US-TW,關稅談判／協議,台美21世紀貿易倡議第二階段談判與關稅機制諮商,"ICT Products, Agricultural Products",未提及,2026-08-18,2026-08-18 10:00:00,2026-08-18 10:00:00,台灣經濟部國際貿易署,1,0.95
-EV-USCN-20260815-001,US-CN,新增關稅,美國商務部及USTR對中國半導體與鋰電池加徵關稅公告,"Semiconductors / Chips, Lithium-ion Batteries",25%,2026-08-15,2026-08-15 09:30:00,2026-08-15 09:30:00,"U.S. Department of Commerce, Reuters",1,0.98
+EV-USTW-20260818-001,US-TW,關稅談判／協議,台美21世紀貿易倡議第二階段談判與高科技關稅機制諮商,"ICT Products, Semiconductors / Chips, Agricultural Products",0% 互惠協商,2026-08-18,2026-08-18 10:00:00,2026-08-19 09:15:00,"台灣經濟部國際貿易署, CNBC, Reuters",3,0.96
+EV-USCN-20260815-001,US-CN,已正式生效的關稅政策,美國商務部與USTR對中國先進半導體及鋰電池加徵關稅正式生效,"Semiconductors / Chips, Lithium-ion Batteries, Solar Products",25% ~ 50%,2026-08-15,2026-08-10 09:30:00,2026-08-15 16:00:00,"U.S. Department of Commerce, CNBC, Reuters",3,0.98
+EV-USCN-20260812-002,US-CN,反制關稅,中國商務部對美國進口特定化學品與農機設備祭出反制關稅,"Machine Tools, Agricultural Products, Chemicals",15% ~ 20%,2026-08-12,2026-08-12 14:00:00,2026-08-13 18:30:00,"CNBC, Reuters",2,0.94
+EV-USTW-20260805-001,US-TW,關稅豁免,美國商務部裁定台灣高階工具機與晶圓載具享有反傾銷關稅豁免,"Machine Tools, Semiconductors / Chips",豁免 (0%),2026-08-05,2026-08-05 11:20:00,2026-08-06 15:10:00,"U.S. Department of Commerce, 台灣經濟部國際貿易署",2,0.95
+EV-USCN-20260728-001,US-CN,關稅調高,美國對中國純電動車 (EV) 加徵 100% 關稅案完成公眾意見諮詢並排定生效,"Electric Vehicles (EV), Lithium-ion Batteries",100%,2026-08-01,2026-07-28 10:00:00,2026-08-01 09:00:00,"U.S. Department of Commerce, CNBC, Reuters",2,0.99
+EV-USTW-20260715-001,US-TW,關稅調降,台美醫療器材與生物製劑雙邊通關關稅調降協議生效,Medical Supplies,調降至 2.5%,2026-07-15,2026-07-15 08:30:00,2026-07-15 08:30:00,"台灣經濟部國際貿易署, Reuters",1,0.92
